@@ -42,7 +42,7 @@
     "express-flash": "^0.0.2",
     "express-ga-middleware": "^0.1.6",
     "express-hbs": "^1.1.1",
-    "express-rate-limit": "^3.2.0",
+    "express-rate-limit": "^5.1.1",
     "express-session": "^1.15.6",
     "express-winston": "^2.5.0",
     "google-libphonenumber": "^3.1.15",
